@@ -1,0 +1,2 @@
+[21-Sep-2021 11:34:05 Asia/Jakarta] PHP Fatal error:  Cannot redeclare mkt::detail_marketing_plan() in /home/kuesionertasik/public_html/application/controllers/Mkt.php on line 252
+[10-Nov-2022 10:36:27 Asia/Jakarta] PHP Fatal error:  Cannot use empty array elements in arrays in /home/lp3itasik/public_html/kuesioner/application/controllers/Pbc.php on line 428
